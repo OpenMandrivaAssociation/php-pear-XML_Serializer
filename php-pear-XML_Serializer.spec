@@ -5,11 +5,11 @@
 
 Summary:	%{_pearname} - class to build XML documents from data structures
 Name:		php-pear-%{_pearname}
-Version:	0.18.0
-Release:	%mkrel 6
+Version:	0.19.2
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/XML_Serializer/
 Requires(post): php-pear
 Requires(preun): php-pear
