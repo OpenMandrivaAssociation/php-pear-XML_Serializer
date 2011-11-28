@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	0.19.2
-Release:	%mkrel 6
+Version:	0.20.2
+Release:	%mkrel 1
 Summary:	Class to build XML documents from data structures
 License:	BSD
 Group:		Development/PHP
