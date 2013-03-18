@@ -3,13 +3,13 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	0.19.2
-Release:	9
+Version:	0.20.2
+Release:	1
 Summary:	Class to build XML documents from data structures
 License:	BSD
 Group:		Development/PHP
 URL:		http://pear.php.net/package/XML_Serializer/
-Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
+Source0:	http://download.pear.php.net/package/XML_Serializer-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
 Requires:	php-pear
@@ -142,4 +142,5 @@ install -m 644 %{upstream_name}.xml %{buildroot}%{_datadir}/pear/packages
 
 * Thu Jan 20 2005 Pascal Terjan <pterjan@mandrake.org> 0.14.1-1mdk
 - First mdk package
+
 
