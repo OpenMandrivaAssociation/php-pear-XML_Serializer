@@ -5,7 +5,7 @@
 Summary:	Class to build XML documents from data structures
 Name:		php-pear-%{modname}
 Version:	0.20.2
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/PHP
 Url:		http://pear.php.net/package/XML_Serializer/
