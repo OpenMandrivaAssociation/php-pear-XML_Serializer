@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.20.2
-Release:	1
+Release:	2
 Summary:	Class to build XML documents from data structures
 License:	BSD
 Group:		Development/PHP
