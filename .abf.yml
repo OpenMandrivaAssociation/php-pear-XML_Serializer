@@ -1,4 +1,2 @@
-removed_sources:
-  XML_Serializer-0.19.2.tgz: 32c720a0ec9a0aa891cfffc7b7c71035cdfae594
 sources:
-  XML_Serializer-0.20.2.tgz: 9e69bdef5c6f0b533743050d86703225a906ad04
+  XML_Serializer-0.21.0.tgz: c948687a08dc30389c4146d38044b77b22e84d26
