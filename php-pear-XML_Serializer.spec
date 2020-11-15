@@ -41,4 +41,5 @@ install -m 644 %{modname}.xml %{buildroot}%{_datadir}/pear/packages
 %doc %{modname}-%{version}/examples
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{modname}.xml
-
+%{_datadir}/pear/doc/XML_Serializer/*
+%{_datadir}/pear/test/XML_Serializer/tests/*
