@@ -8,7 +8,7 @@ Version:	0.21.0
 Release:	2
 License:	BSD
 Group:		Development/PHP
-Url:		http://pear.php.net/package/XML_Serializer/
+Url:		https://pear.php.net/package/XML_Serializer/
 Source0:	http://download.pear.php.net/package/XML_Serializer-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
